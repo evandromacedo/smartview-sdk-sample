@@ -2,6 +2,7 @@
   "name": "smartview-sdk-sample",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://myusername.github.io/my-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -9,9 +10,12 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.0",
+    "scriptjs": "^2.5.9",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
