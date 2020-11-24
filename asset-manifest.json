@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.5509a54a.chunk.css",
-    "main.js": "/my-app/static/js/main.c2f70ff4.chunk.js",
-    "main.js.map": "/my-app/static/js/main.c2f70ff4.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.147e738a.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.147e738a.js.map",
-    "static/js/2.43273094.chunk.js": "/my-app/static/js/2.43273094.chunk.js",
-    "static/js/2.43273094.chunk.js.map": "/my-app/static/js/2.43273094.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "static/css/main.5509a54a.chunk.css.map": "/my-app/static/css/main.5509a54a.chunk.css.map",
-    "static/js/2.43273094.chunk.js.LICENSE.txt": "/my-app/static/js/2.43273094.chunk.js.LICENSE.txt"
+    "main.css": "/smartview-sdk-sample/static/css/main.5509a54a.chunk.css",
+    "main.js": "/smartview-sdk-sample/static/js/main.c2f70ff4.chunk.js",
+    "main.js.map": "/smartview-sdk-sample/static/js/main.c2f70ff4.chunk.js.map",
+    "runtime-main.js": "/smartview-sdk-sample/static/js/runtime-main.0e309e1e.js",
+    "runtime-main.js.map": "/smartview-sdk-sample/static/js/runtime-main.0e309e1e.js.map",
+    "static/js/2.43273094.chunk.js": "/smartview-sdk-sample/static/js/2.43273094.chunk.js",
+    "static/js/2.43273094.chunk.js.map": "/smartview-sdk-sample/static/js/2.43273094.chunk.js.map",
+    "index.html": "/smartview-sdk-sample/index.html",
+    "static/css/main.5509a54a.chunk.css.map": "/smartview-sdk-sample/static/css/main.5509a54a.chunk.css.map",
+    "static/js/2.43273094.chunk.js.LICENSE.txt": "/smartview-sdk-sample/static/js/2.43273094.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.147e738a.js",
+    "static/js/runtime-main.0e309e1e.js",
     "static/js/2.43273094.chunk.js",
     "static/css/main.5509a54a.chunk.css",
     "static/js/main.c2f70ff4.chunk.js"
