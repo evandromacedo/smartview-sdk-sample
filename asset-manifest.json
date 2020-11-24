@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/smartview-sdk-sample/static/css/main.5509a54a.chunk.css",
-    "main.js": "/smartview-sdk-sample/static/js/main.c2f70ff4.chunk.js",
-    "main.js.map": "/smartview-sdk-sample/static/js/main.c2f70ff4.chunk.js.map",
+    "main.js": "/smartview-sdk-sample/static/js/main.92b9d90d.chunk.js",
+    "main.js.map": "/smartview-sdk-sample/static/js/main.92b9d90d.chunk.js.map",
     "runtime-main.js": "/smartview-sdk-sample/static/js/runtime-main.0e309e1e.js",
     "runtime-main.js.map": "/smartview-sdk-sample/static/js/runtime-main.0e309e1e.js.map",
     "static/js/2.43273094.chunk.js": "/smartview-sdk-sample/static/js/2.43273094.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.0e309e1e.js",
     "static/js/2.43273094.chunk.js",
     "static/css/main.5509a54a.chunk.css",
-    "static/js/main.c2f70ff4.chunk.js"
+    "static/js/main.92b9d90d.chunk.js"
   ]
 }
